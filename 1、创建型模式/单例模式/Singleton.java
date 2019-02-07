@@ -17,3 +17,10 @@ class Singleton
     }
 
 }
+
+static void main(String[] args)
+{
+    Singleton instance1 = Singleton.GetInstance();
+    //...
+
+}
